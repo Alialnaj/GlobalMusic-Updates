@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Initial release.",
-    "download_url": "https://github.com/Alialnaj/GlobalMusic-Updates/releases/download/v1.2.1/GlobalMusic.exe"
+  "version": "1.2.1",
+  "url": "https://github.com/Alialnaj/GlobalMusic-Updates/releases/download/v1.2.1/GlobalMusic.exe",
+  "changelog": "Fixes the flickering in the Liquid Glass theme - the window, the mouse pointer, and dragging. Smaller download too."
 }
