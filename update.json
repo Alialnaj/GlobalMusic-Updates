@@ -1,5 +1,5 @@
 {
   "version": "2.1.1",
-  "url": "https://github.com/Alialnaj/GlobalMusic-Updates/releases/download/v2.1.1/GlobalMusic.exe",
-  "changelog": "Playlist properties: right-click any playlist for its track count, total time, size on disk and what is left to download — plus Download All Tracks, and the day you made it.\n\nFixes: Next now plays the next track of the list you are playing, not of the playlist you happen to be looking at. The Library can be dragged onto a playlist under any sort, and a drag no longer needs the song selected first. The lyrics panel now actually slides open instead of appearing in two frames."
+  "url": "https://github.com/Alialnaj/GlobalMusic-Updates/releases/download/2.1.1/GlobalMusic.exe",
+  "changelog": "Playlist properties: right-click any playlist for its track count, total time, size on disk and what is left to download - plus Download All Tracks, and the day you made it.\n\nFixes: Next now plays the next track of the list you are playing, not of the playlist you happen to be looking at. The Library can be dragged onto a playlist under any sort, and a drag no longer needs the song selected first. The lyrics panel now actually slides open instead of appearing in two frames."
 }
